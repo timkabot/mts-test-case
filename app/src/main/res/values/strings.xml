@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MTS TEST CASE</string>
+    <string name="action_settings">Settings</string>
+    <string name="jsTemplate">js_template</string>
+</resources>
